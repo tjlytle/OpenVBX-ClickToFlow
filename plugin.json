@@ -1,0 +1,13 @@
+{
+    "name" : "Click-To-Flow",
+    "author" : "Tim Lytle <tim@timlytle.net>",
+    "description" : "Initiate a call connecting a flow to the called number.",
+    "url" : "http://github.com/tjlytle/OpenVBX-ClickToFlow",
+    "links" : [{
+                        "menu" : "Click-To-Flow",
+                        "url" : "click_to_flow",
+                        "script" : "click_to_flow.php",
+                        "label" : "Click-To-Flow",
+                        "hook" : true
+                }]
+}
