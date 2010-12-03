@@ -8,7 +8,7 @@ to make this compatible with the official release once [it is possible][0].
 
 # Click-To-Flow for OpenVBX
 -----------------------------
-Plugin for [OpenVBX][1] allows a flow to be initiated buy a form POST. Currently
+Plugin for [OpenVBX][1] allows a flow to be initiated by a form POST. Currently
 requires modified OpenVBX source from my [OpenVBX fork][2], allowing plugins to
 be accessed by unauthenticated requests.
 
